@@ -1,0 +1,14 @@
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.AssemblyInfoInputs.cache
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.AssemblyInfo.cs
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.csproj.CoreCompileInputs.cache
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\bin\Debug\net8.0-windows\dependo_testing_app.exe
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\bin\Debug\net8.0-windows\dependo_testing_app.deps.json
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\bin\Debug\net8.0-windows\dependo_testing_app.runtimeconfig.json
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\bin\Debug\net8.0-windows\dependo_testing_app.dll
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\bin\Debug\net8.0-windows\dependo_testing_app.pdb
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.dll
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\refint\dependo_testing_app.dll
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.pdb
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.genruntimeconfig.cache
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\ref\dependo_testing_app.dll
