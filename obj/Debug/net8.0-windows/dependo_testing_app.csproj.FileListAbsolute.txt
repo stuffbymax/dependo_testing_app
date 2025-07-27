@@ -12,3 +12,4 @@ C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\ref
 C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.pdb
 C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.genruntimeconfig.cache
 C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\ref\dependo_testing_app.dll
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\obj\Debug\net8.0-windows\dependo_testing_app.sourcelink.json

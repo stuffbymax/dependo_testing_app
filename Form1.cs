@@ -36,7 +36,7 @@ namespace dependo_testing_app
             this.Text = "Dependo - Game Dependency Viewer";
             this.StartPosition = FormStartPosition.CenterScreen;
             var screen = Screen.PrimaryScreen.WorkingArea;
-            this.Size = new Size((int)(screen.Width * 0.8), (int)(screen.Height * 0.8));
+            //this.Size = new Size((int)(screen.Width * 0.8), (int)(screen.Height * 0.8));
             this.MinimumSize = new Size(800, 600);
 
             ApplyTheme();
@@ -45,7 +45,7 @@ namespace dependo_testing_app
             topPanel = new Panel
             {
                 Dock = DockStyle.Top,
-                Height = 70,
+                Height = 50,
                 Padding = new Padding(15),
                 BackColor = this.BackColor,
             };
@@ -55,7 +55,7 @@ namespace dependo_testing_app
             titleLabel = new Label
             {
                 Text = "Dependo",
-                Font = new Font("Segoe UI", 24, FontStyle.Bold),
+                Font = new Font("Segoe UI", 12, FontStyle.Bold),
                 ForeColor = this.ForeColor,
                 AutoSize = true,
                 Location = new Point(20, 15)
