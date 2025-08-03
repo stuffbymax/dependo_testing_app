@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dependo_testing_app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7a20baa07c0c7c6483b05b71ca2e46b35f23f0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3949b97e901dad31759fe597f2dedf5b652ea548")]
 [assembly: System.Reflection.AssemblyProductAttribute("dependo_testing_app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dependo_testing_app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

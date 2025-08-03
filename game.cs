@@ -1,7 +1,7 @@
 public class Game
 {
     public string Name { get; set; }
-    public string Image { get; set; }
+    public string image { get; set; }
     public string DirectX { get; set; }
     public string DotNet { get; set; }
     public string[] VCRedist { get; set; }
