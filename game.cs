@@ -1,3 +1,8 @@
+// game.cs
+
+// This line was missing. It's needed for Dictionary<,>.
+using System.Collections.Generic;
+
 public class Game
 {
     public string Name { get; set; }

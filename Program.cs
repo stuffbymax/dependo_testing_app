@@ -1,16 +1,23 @@
-namespace dependo_testing_app;
+// Program.cs
 
-static class Program
+using System; // For [STAThread]
+using System.Windows.Forms;
+
+namespace dependo_testing_app
 {
-    /// <summary>
-    ///  The main entry point for the application.
-    /// </summary>
-    [STAThread]
-    static void Main()
+    internal static class Program
     {
-        // To customize application configuration such as set high DPI settings or default font,
-        // see https://aka.ms/applicationconfiguration.
-        ApplicationConfiguration.Initialize();
-        Application.Run(new Form1());
-    }    
+        // This attribute tells the OS that this is a single-threaded UI application.
+        [STAThread]
+        static void Main()
+        {
+            Application.SetHighDpiMode(HighDpiMode.SystemAware);
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            
+            // This is where your app starts.
+            // Make sure your main form class is named Form1.
+            Application.Run(new Form1()); 
+        }
+    }
 }
