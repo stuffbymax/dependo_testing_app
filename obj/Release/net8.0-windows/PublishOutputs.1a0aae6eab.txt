@@ -1,0 +1,5 @@
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\publish\dependo_testing_app.exe
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\publish\dependo_testing_app.dll
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\publish\dependo_testing_app.deps.json
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\publish\dependo_testing_app.runtimeconfig.json
+C:\Users\heheb\Documents\GitHub\dependo_testing_app\publish\dependo_testing_app.pdb
