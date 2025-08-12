@@ -1,4 +1,4 @@
-# 🖥️ Game Compatibility Fixes – App Version
+# 🖥️ Game Compatibility Fixes – 0.0.1
 
 A lightweight **desktop app** that helps users fix missing dependencies for PC games. Built using **web technologies** (HTML, CSS, JS), the app fetches live data from a [central JSON database](https://github.com/stuffbymax/game-dependencies-db).
 
