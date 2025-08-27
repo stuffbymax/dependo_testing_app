@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows</TargetFramework> <!-- You can change this to net7.0 or net8.0 if you need -->
+    <TargetFramework>net8.0-windows</TargetFramework> <!-- You can change this to net7.0 or net8.0 or higher if you need but you may need to make some changes -->
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
